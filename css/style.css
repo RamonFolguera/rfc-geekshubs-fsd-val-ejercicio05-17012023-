@@ -33,6 +33,7 @@ h1 {
 }
 
 .card {
+    
     padding: 15px;
     border: 1px solid black;
     
@@ -41,7 +42,9 @@ h1 {
 .bottom-section {
     display: flex;
 }
-
+p {
+    margin: 20px 0;
+}
 .titleGreen, h2 {
     color: green;
 }
